@@ -1,0 +1,8 @@
+Activity Week 7
+Create class(es) in a retail industry to get information from customer and save it in a file or in a database.
+Explain in short how many classes we need and why? Note: using OO methods
+ 
+When we want to introduce more composite objects like Address, then it is required to introduce more Classes.
+for the moment, Single Customer Class is enough.
+
+ 
