@@ -1,0 +1,8 @@
+ID Number: CUST001
+First Name: Nalin
+Last Name: Udaya Kumara
+Address: 4 Pilsdon, New Lynn, Auckland
+ID Number: CUST001
+First Name: Nalin
+Last Name: Udaya Kumara
+Address: 4 Pilsdon, New Lynn, Auckland
