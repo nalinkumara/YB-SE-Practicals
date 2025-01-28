@@ -12,7 +12,12 @@ def factorial(n):
     print(f'Factorial of {n} is {fac}')
     return fac
 
-factorial_data = [factorial(x) for x in data] 
+# factorial_data = [factorial(x) for x in data] 
+
+factorial_data = [1 if n == 0 else (f := 1, [f := f * i for i in range(1, n + 1)], f)[-1] for n in data]
+
+# [-1] last element
+# f:= assign and use an expression
  
 print(factorial_data)
     
