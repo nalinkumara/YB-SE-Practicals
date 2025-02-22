@@ -70,6 +70,6 @@ def process_a_file():
 
     print(f"(Program {filename} contain  {for_loops} for loops")
     print(f"(Program {filename} contain  {while_loops} while loops")
-    print(f"(Program {filename} contain  {for_loops+while_loops} loops in total")
+    print(f"(Program {filename} contain  {for_loops+while_loops} loops in total")   
 
 process_a_file()
